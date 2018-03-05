@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520268334026.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3503885631",
+    "id" : "E18A6958",
+    "lastKnownWriteTime" : 1520278590,
+    "last_content_update" : 1520278590185,
+    "path" : "C:/Users/neil/entropy/entropy/settingupSite.R",
+    "project_path" : "settingupSite.R",
+    "properties" : {
+        "cursorPosition" : "2,4",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
