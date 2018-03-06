@@ -4,3 +4,7 @@ library(blogdown);
 # 
 # install_theme("halogenica/beautifulhugo", theme_example = TRUE, update_config = TRUE)
 # install_theme("halogenica/beautifulhugo", force=TRUE)
+
+
+blogdown::serve_site()
+blogdown::stop_server()
